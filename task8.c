@@ -31,7 +31,7 @@ int main()
                 }
 
         }
-
+ 
         k = k + 1;
     } while (k < 10);
 
