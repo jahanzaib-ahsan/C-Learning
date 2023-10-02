@@ -10,8 +10,13 @@ int main()
      if(age>10)  
      {
 
-        break;
+        continue;
      } 
+    printf("Hardwork is key to success\n");
+    printf("Hardwork is key to success\n");
+    printf("Hardwork is key to success\n");
+    printf("Hardwork is key to success\n ");
+   
 
     }
     
