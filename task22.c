@@ -9,8 +9,9 @@ int main()
         {
            
         
-        printf("The value of %d , %d element of the array is %d\n", i,j, marks[i][j]);
+        printf("%d", marks[i][j]);
         }
+        printf("\n");
     }
 
     return 0;
