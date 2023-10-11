@@ -7,12 +7,10 @@ int main()
     {
         for (int j = 0; j < 3; j++)
         {
-           
-        
-        printf("%d", marks[i][j]);
-        }
-        printf("\n");
-    }
 
+            printf("The value of %d , %d element of the array is %d\n", i, j, marks[i][j]);
+        }
+        
+    }
     return 0;
 }
