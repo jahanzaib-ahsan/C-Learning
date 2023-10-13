@@ -6,6 +6,6 @@ int main()
     printf("%d\n", ptra);
     ptra++;
     printf("%d\n", ptra);
-    printf("%d", ptra-2);
+    printf("%d", ptra-3);
     return 0;
 }
